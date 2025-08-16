@@ -1,6 +1,6 @@
 # Serverless To-Do Application on AWS
 
-![cover.png](./blog-post/cover.png)
+![cover.png](./assets/images/cover.png)
 
 A serverless to-do application built with **Amazon API Gateway**, **AWS Lambda**, **DynamoDB**, **Cognito**, **S3**, and **CloudFront**.  
 This project demonstrates designing a scalable, event-driven serverless architecture with Infrastructure as Code (IaC) using **AWS SAM**.
