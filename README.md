@@ -27,7 +27,7 @@ The application allows users to:
 
 ## System Architecture
 
-![architecture.png](./blog-post/architecture.png)
+![architecture.png](./assets/images/architecture.png)
 
 ### Frontend
 - Static HTML, CSS, and JavaScript hosted in **Amazon S3**  
